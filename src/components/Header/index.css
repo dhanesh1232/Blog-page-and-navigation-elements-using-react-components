@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+.nav-bar {
+  display: flex;
+  height: 20%;
+  align-items: center;
+  padding: 20px;
+  justify-content: space-between;
+}
+.nav-img {
+  width: 40px;
+}
+.nav-img-section {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.nav-label {
+  font-size: 28px;
+  font-weight: 500;
+}
+.list-items {
+  list-style-type: none;
+  display: flex;
+  gap: 10px;
+  font-size: 18px;
+}
+.nav-link {
+  font-weight: 600;
+  color: #12022f;
+}
